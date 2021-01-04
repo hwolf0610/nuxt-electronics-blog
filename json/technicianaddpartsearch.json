@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "ATMEGA32M1-AU-ND",
+        "country": "US",
+        "package": "TQFP",
+        "manufacturer": "Microchip"
+    },
+    {
+        "id": 1,
+        "name": "ATMEGA32M1",
+        "country": "US",
+        "package": "TQFP",
+        "manufacturer": "Microchip"
+    },
+    {
+        "id": 2,
+        "name": "ATMEGA32M1-AU-ND",
+        "country": "US",
+        "package": "TQFP",
+        "manufacturer": "Microchip"
+    },
+    {
+        "id": 3,
+        "name": "ATMEGA32M1-AU-ND",
+        "country": "US",
+        "package": "TQFP",
+        "manufacturer": "Microchip"
+    }
+]

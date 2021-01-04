@@ -1,0 +1,225 @@
+{
+    "first_submenu_User_provider": [
+        {
+            "id": "1",
+            "username": "Moran Biten1",
+            "role": "Service Provider",
+            "status": "Active",
+            "joindate": "1/12/2017",
+            "profileimage": "/_nuxt/static/images/blog-image.png",
+            "rate": 5,
+            "action": "work",
+            "time": "5 mins ago"
+        },
+        {
+            "id": "2",
+            "username": "Moran Biten2",
+            "role": "Service Provider",
+            "status": "Active",
+            "joindate": "1/12/2017",
+            "profileimage": "/_nuxt/static/images/blog-image.png",
+            "rate": 4,
+            "action": "work",
+            "time": "5 mins ago"
+        },{
+            "id": "3",
+            "username": "Moran Biten3",
+            "role": "Service Provider",
+            "status": "Active",
+            "joindate": "1/12/2017",
+            "profileimage": "/_nuxt/static/images/blog-image.png",
+            "rate": 3,
+            "action": "work",
+            "time": "5 mins ago"
+        },{
+            "id": "4",
+            "username": "Moran Bite4",
+            "role": "Service Provider",
+            "status": "Active",
+            "joindate": "1/12/2017",
+            "profileimage": "/_nuxt/static/images/blog-image.png",
+            "rate": 4,
+            "action": "work",
+            "time": "5 mins ago"
+        },{
+            "id": "5",
+            "username": "Moran Biten5",
+            "role": "Service Provider",
+            "status": "Active",
+            "joindate": "1/12/2017",
+            "profileimage": "/_nuxt/static/images/blog-image.png",
+            "rate": 2,
+            "action": "work",
+            "time": "5 mins ago"
+        },{
+            "id": "6",
+            "username": "Moran Biten6",
+            "role": "Service Provider",
+            "status": "Active",
+            "joindate": "1/12/2017",
+            "profileimage": "/_nuxt/static/images/blog-image.png",
+            "rate": 3,
+            "action": "work",
+            "time": "5 mins ago"
+        }
+    ],
+    "second_submenu_add_parts_electronics": [
+        {
+            "id": 1,
+            "role": "User",
+            "name": "Example1",
+            "package": "OFN",
+            "category": "Network",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 2,
+            "role": "User",
+            "name": "Example2",
+            "package": "OFN",
+            "category": "Network",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 3,
+            "role": "User",
+            "name": "Example3",
+            "package": "OFN",
+            "category": "Network",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 4,
+            "role": "User",
+            "name": "Example4",
+            "package": "OFN",
+            "category": "Network",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 5,
+            "role": "User",
+            "name": "Example5",
+            "package": "OFN",
+            "category": "Network",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 6,
+            "role": "User",
+            "name": "Example6",
+            "package": "OFN",
+            "category": "Network",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        }
+    ],
+    "second_submenu_add_parts_code": [
+        {
+            "id": 1,
+            "role": "User",
+            "category": "Network1",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 2,
+            "role": "User",
+            "category": "Network2",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 3,
+            "role": "User",
+            "category": "Network3",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 4,
+            "role": "User",
+            "category": "Network4",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 5,
+            "role": "User",
+            "category": "Network5",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 6,
+            "role": "User",
+            "category": "Network6",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        }
+    ],
+    "second_submenu_add_parts_cover": [
+        {
+            "id": 1,
+            "role": "User",
+            "name": "Network1",
+            "type": "part",
+            "category": "Network1",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 2,
+            "role": "User",
+            "name": "Network2",
+            "type": "part",
+            "category": "Network2",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 3,
+            "role": "User",
+            "name": "Network3",
+            "type": "part",
+            "category": "Network3",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 4,
+            "role": "User",
+            "name": "Network4",
+            "type": "part",
+            "category": "Network4",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 5,
+            "role": "User",
+            "name": "Network5",
+            "type": "part",
+            "category": "Network5",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        },{
+            "id": 6,
+            "role": "User",
+            "name": "Network6",
+            "type": "part",
+            "category": "Network6",
+            "sub_category": "wifi",
+            "time": "5 mins ageo",
+            "action": "action"
+        }
+    ]
+}

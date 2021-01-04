@@ -1,0 +1,15 @@
+<template>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="24" height="26" viewBox="0 0 24 26">
+  <image xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAaCAMAAACaYWzBAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABTVBMVEUAAADHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8cAAAB27fP7AAAAbXRSTlMABmje3GAJcOT+qbDiCAx46fyjKi2o5wsQgO3gXQQnoOwOFIjx95MeOLdlIZj68BKF9IsZMa9sHJDLSHQBS9KhzchQJHtVz8ecxlgCItrAQL7WX2K0Z2ozLLFUpquDln2Gfp+kd6eqCm/z9QcFTH0ZWgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAEzSURBVCjPvZLpM8NQFMVvImlFohWREEqjRCxNiRRVpQhVa+3Uvu/3//8qedGYCF/dD2/uO7+Z987MOQCNoegmhqXg58TizVwLjwLdGpITyTaxXQLokDkl3hnIXWq3iD2pXm/vS4tasp/ImYFBfcgYHkFmlPwwljVz6jjAhGVN2p6Qn+KE6Zi3zRR0SwXE2eLXk5IsKnMJgNL8AiJgeRGXlks+ctKmtrJawbWqC1gormNlY9NHW9uIOzVgCQCo7eLevuuKOmBQP3SFBgDwXB0dC8if8HwIEFecfAoQAQD1unf+AogEqbM/AJn/AueZKLAvEC4tq2CHgXGlW9duUDc5PWt8A6fqB+VFe6uZd44PpPsgWlKGB0V8lHg+/+SW4TlcnxeBe31z6/MeaRZFMwz7EVw/Ae72NSWn8vHjAAAAAElFTkSuQmCC" width="24" height="26"/>
+</svg>
+</template>
+
+<script>
+    export default {
+        name: "product-icon"
+    }
+</script>
+
+<style scoped>
+
+</style>

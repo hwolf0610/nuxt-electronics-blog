@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "name": "Sarah Doe",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+        "potrait_url": "https://randomuser.me/api/portraits/women/14.jpg",
+        "image_url": "/_nuxt/static/images/car-big.png",
+        "comments_count": "26",
+        "share_count": "3",
+        "likes_count": "35",
+        "comments": [
+        ],  
+        "shared_by":[
+            {
+                "id": 1,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe"
+            },
+            {
+                "id": 2,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe"
+            },
+            {
+                "id": 3,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe"
+            }
+        ]
+    }, 
+    {
+        "id": 2,
+        "name": "Sarah Doe",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+        "potrait_url": "https://randomuser.me/api/portraits/men/14.jpg",
+        "image_url": "/_nuxt/static/images/headphone-big.png",
+        "comments_count": "30",
+        "share_count": "12",
+        "likes_count": "35",
+        "shared_by": [
+            {
+                "id": 2,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe"
+            },
+            {
+                "id": 3,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe"
+            },
+            {
+                "id": 4,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe"
+            }
+        ],
+        "comments": [
+            {
+                "id": 1,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe",
+                "occupation": "Consultant at Google Inc.",
+                "comments_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus libero at odio vestibulum, at blandit justo sagittis. Vestibulum eget dui massa.",
+                "likes": "50",
+                "comments": "90"
+            },
+            {
+                "id": 2,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe",
+                "occupation": "Consultant at Google Inc.",
+                "comments_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus libero at odio vestibulum, at blandit justo sagittis. Vestibulum eget dui massa.",
+                "likes": "60",
+                "comments": "90"
+            },
+            {
+                "id": 3,
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe",
+                "occupation": "Consultant at Google Inc.",
+                "comments_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus libero at odio vestibulum, at blandit justo sagittis. Vestibulum eget dui massa.",
+                "likes": "70",
+                "comments": "90"
+            },
+            {
+                "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                "name": "William Doe",
+                "occupation": "Consultant at Google Inc.",
+                "comments_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus libero at odio vestibulum, at blandit justo sagittis. Vestibulum eget dui massa.",
+                "likes": "80",
+                "comments": "90"
+            }
+        ]
+    }
+]

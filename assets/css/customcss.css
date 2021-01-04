@@ -1,0 +1,235 @@
+.curve-bg{
+  background: url(~static/images/curve-bg-1.png) no-repeat;
+  background-size: 101%;
+}
+.border-pink-CM{
+	border-color: #ab3bb4;
+}
+.curve-bg-top-pos1{
+	  background-position: center -50px;
+}
+.curve-bg-top-pos2{
+	  background-position: center -100px;
+}
+.curve-bg-top-pos3{
+	  background-position: center -150px;
+}
+.bg-pink-CM{
+	background: #f301c3;
+}
+.bg-ideeza{
+	background:#fc00c5;
+}
+.text-ideeza{
+	color: #fc00c5;
+}
+.btn-full{
+  width: 100%;
+}
+.btn-sm{
+  width: 150px;
+  max-width: 100%;
+}
+.btn-md{
+  width: 250px;
+  max-width: 100%;
+}
+.btn-lg{
+  width: 350px;
+  max-width: 100%;
+}
+.curve-bg-top-img{
+	background: url(~static/images/curve-bg.png) no-repeat ;
+	background-size: 100%;
+	background-position:0 100.5%;
+}
+.curve-bg-footer-bg-img{
+	background: url(~static/images/curve-bg-footer.png) no-repeat;
+	background-size: 100%;
+}
+.curve-bg-footer-bg-img2{
+	background: url(~static/images/curve-bg-footer2.png) no-repeat;
+	background-size: 100%;
+}
+.curve-bg-gradient{
+	background: rgb(98,18,156);
+	background: linear-gradient(86deg, rgba(98,18,156,1) 0%, rgba(242,3,210,1) 100%);
+}
+.bot-bg-CM{
+	background:url(~static/images/contact-bot.png) no-repeat bottom right;
+}
+.contact-step-bg{
+	background:#441184;
+}
+.steps-cont-box{
+	width: 600px;
+	margin:auto;
+	max-width: 100%;
+	position: relative;
+}
+.steps-box-bg-bar:before {
+    content: '';
+    position: absolute;
+    width: 70%;
+    height: 10px;
+    background: #441184;
+    top: 40px;
+    left: 0;
+    margin: auto;
+    right: 0;
+    z-index: -1;
+}
+.ytp-chrome-top.ytp-show-cards-title {
+    display: none !important;
+}
+.dd-menu{
+	display: none;
+}
+.dd-menu-link{
+	cursor: pointer;
+}
+.dd-menu-link:hover .dd-menu{
+	display: block !important;
+	cursor: pointer; 
+}
+.btn-gradient-bg{
+	background: rgb(255,154,233);
+	background: linear-gradient(86deg, rgba(255,154,233,1) 0%, rgba(255,2,206,1) 100%);
+}
+.succe_box-w{
+	width: 500px;
+	max-width: 100%;
+	top: 25%;
+}
+.succe_box-w2{
+	width: 500px;
+	max-width: 100%;
+	left: -50px;
+}
+.services_section img{
+	max-height: 180px;
+	display: inline-block;
+}
+.story_content-box{
+	height: 1000px;
+	overflow: auto;
+	margin-top: -100px;
+	z-index:999;
+}
+.investment-marketing-popup{
+    position: absolute;
+    bottom: 83%;
+    max-width: 800px;
+    background: #fff;
+    left: 22%;
+    display: none;
+}
+.investment-marketing-box:hover .investment-marketing-popup{
+	display: block;
+}
+.bottom-tip{
+	bottom:-113px;
+	left: 0;
+}
+.form-text-color{
+	color: #174a84;
+}
+.form-border-color{
+	border-color: #174a84;	
+}
+.COS-steps{
+	overflow: hidden;
+}
+.COS-steps a{
+	background:#ccc;
+	position: relative;
+	float: left;
+	height: 52px;
+	padding:10px 30px;
+	font-size: 20px;
+}
+.COS-steps a:after {
+    content: "";
+    border-top: 26px solid transparent;
+    border-bottom: 26px solid transparent;
+    border-left: 16px solid transparent;
+    position: absolute;
+    right: -19px;
+    top: 0;
+    z-index: 1;
+}
+.COS-steps a:after{
+	content: '';
+	border-left: 19px solid #FFF;
+}
+.COS-steps a:before {
+    content: "";
+    border-top: 16px solid transparent;
+    border-bottom: 16px solid transparent;
+    border-right: 16px solid transparent;
+    border-left: 16px solid transparent;
+    position: absolute;
+    left: -23px;
+    top: 0;
+    z-index: 1;
+}
+.COS-steps a:before {
+    border-top: 26px solid #FFF;
+    border-bottom: 26px solid #FFF;
+    border-left: 16px solid #FFF;
+    border-right: 7px solid #FFF;
+    border-left: 16px solid transparent;
+}
+.COS-steps-active{
+	background:#ea01bf !important;
+	color: #fff !important;
+}
+.homeBanner-bg{
+	background:url('~static/images/homeBanner.png') no-repeat right bottom;
+}
+.home-section-bg1{
+	background:url('~static/images/section-bg-1.png') no-repeat right center;
+	background-size: auto 100%;
+}
+.home-section-bg2{
+	background:url('~static/images/section-bg-2.png') no-repeat left center;
+	background-size: auto 100%;
+}
+.LandingPageBotIcon{
+	left: 0;
+	top:-160px;
+	z-index: -1;
+}
+@media (max-width: 767px){
+	.succe_box-w{
+		width: 100%;
+	}
+	img.absolute.bottom-tip {
+    left: 55%;
+	}
+	.investment-marketing-popup{	
+	width: 100%;
+    left: 0;
+    bottom: 95%;
+	}
+	.homeBanner-bg{
+		 background-size: 80%;
+	}
+}
+@media (min-width: 1440px){
+   .curve-bg{
+    background-position: 0 -200px;
+  }
+}
+@media (min-width: 1600px){
+   .curve-bg{
+    background-position: 0 -300px;
+  }
+}
+
+@media (min-width: 1800px){
+   .curve-bg{
+    background-position: 0 -400px;
+  }
+}
+

@@ -1,0 +1,51 @@
+{
+    "message_member": [
+        {
+            "id": 1,
+            "displayname": "Chrome/Windows 10",
+            "profileimage": "Chrome/Windows 10",
+            "kind": "people",
+            "email": "NewYork NY USA",
+            "password": "About 3 hours ago",
+            "lastmessage": "About 3 hours ago"
+        },
+        {
+            "id": 2,
+            "displayname": "Chrome/Windows 10",
+            "profileimage": "Chrome/Windows 10",
+            "kind": "service provide",
+            "email": "NewYork NY USA",
+            "password": "About 3 hours ago",
+            "lastmessage": "About 3 hours ago"
+        },
+        {
+            "id":3,
+            "displayname": "Chrome/Windows 10",
+            "profileimage": "Chrome/Windows 10",
+            "kind": "Notifications",
+            "email": "NewYork NY USA",
+            "password": "About 3 hours ago",
+            "lastmessage": "About 3 hours ago"
+        },
+        {
+            "id": 4,
+            "displayname": "Chrome/Windows 10",
+            "profileimage": "Chrome/Windows 10",
+            "kind": "Notifications",
+            "email": "NewYork NY USA",
+            "password": "About 3 hours ago",
+            "lastmessage": "About 3 hours ago"
+        }
+
+    ],
+    "message_content":[
+        {
+            "id":1,
+            "from_member_name":"",
+            "to_member_name":"",
+            "content":"",
+            "send_time":"",
+            "received_time":""
+        }
+    ]
+}

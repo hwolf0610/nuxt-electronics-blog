@@ -1,0 +1,118 @@
+[
+  {
+    "date": 1578499200000,
+    "tasks": [{
+        "timestamp": 1578499200000,
+        "title": "Finish electronics part",
+        "duration": "09:00 AM - 10:30 AM",
+        "comment_count": 5,
+        "paperclip_count": 2,
+        "invited": [
+          "https://randomuser.me/api/portraits/women/17.jpg",
+          "https://randomuser.me/api/portraits/men/16.jpg"
+        ],
+        "active": false,
+        "id": 0,
+        "important": false,
+        "addNewMember": false
+      },
+      {
+        "timestamp": 1578499200000,
+        "title": "Finish electronics part",
+        "duration": "09:00 AM - 10:30 AM",
+        "comment_count": 5,
+        "paperclip_count": 2,
+        "invited": [
+          "https://randomuser.me/api/portraits/women/17.jpg",
+          "https://randomuser.me/api/portraits/men/16.jpg"
+        ],
+        "active": false,
+        "id": 1,
+        "important": true,
+        "addNewMember": false
+      },
+      {
+        "timestamp": 1578499200000,
+        "title": "Finish electronics part",
+        "duration": "09:00 AM - 10:30 AM",
+        "comment_count": 5,
+        "paperclip_count": 2,
+        "invited": [
+          "https://randomuser.me/api/portraits/women/17.jpg",
+          "https://randomuser.me/api/portraits/men/16.jpg"
+        ],
+        "active": false,
+        "id": 2,
+        "important": false,
+        "addNewMember": false,
+        "subtasks": [{
+            "completed": false,
+            "description": "Do a research on design"
+          },
+          {
+            "competed": "false",
+            "description": "Check if all deliveries are made"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": 1578412800000,
+    "tasks": [{
+        "timestamp": 1578412800000,
+        "title": "Finish electronics part",
+        "duration": "09:00 AM - 10:30 AM",
+        "comment_count": 5,
+        "paperclip_count": 2,
+        "invited": [
+          "https://randomuser.me/api/portraits/women/17.jpg",
+          "https://randomuser.me/api/portraits/men/16.jpg"
+        ],
+        "active": false,
+        "id": 0,
+        "important": false,
+        "addNewMember": false
+      },
+      {
+        "timestamp": 1578412800000,
+        "title": "Finish electronics part",
+        "duration": "09:00 AM - 10:30 AM",
+        "comment_count": 5,
+        "paperclip_count": 2,
+        "invited": [
+          "https://randomuser.me/api/portraits/women/17.jpg",
+          "https://randomuser.me/api/portraits/men/16.jpg"
+        ],
+        "active": false,
+        "id": 1,
+        "important": true,
+        "addNewMember": false
+      },
+      {
+        "timestamp": 1578412800000,
+        "title": "Finish electronics part",
+        "duration": "09:00 AM - 10:30 AM",
+        "comment_count": 5,
+        "paperclip_count": 2,
+        "invited": [
+          "https://randomuser.me/api/portraits/women/17.jpg",
+          "https://randomuser.me/api/portraits/men/16.jpg"
+        ],
+        "active": false,
+        "id": 2,
+        "important": false,
+        "addNewMember": false,
+        "subtasks": [{
+            "completed": false,
+            "description": "Do a research on design"
+          },
+          {
+            "competed": "false",
+            "description": "Check if all deliveries are made"
+          }
+        ]
+      }
+    ]
+  }
+]

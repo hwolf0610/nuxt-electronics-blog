@@ -1,0 +1,18 @@
+[
+    {
+        "image_url": "/_nuxt/static/images/Layercar.png",
+        "name": "Lamborghini Aventado",
+        "description": "Electronics + Cover - Red - 1pc",
+        "eletronics_description": "PCB Way, Cha...",
+        "cover_description": "Flying Car N3...",
+        "price": "$20,000"
+    },
+    {
+        "image_url": "/_nuxt/static/images/Layercar.png",
+        "name": "Lamborghini Aventado",
+        "description": "Electronics + Cover - Red - 1pc",
+        "eletronics_description": "PCB Way, Cha...",
+        "cover_description": "Flying Car N3...",
+        "price": "$30,000"
+    }
+]

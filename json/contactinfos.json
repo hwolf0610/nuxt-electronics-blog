@@ -1,0 +1,86 @@
+{
+    "potrait_url": "https://randomuser.me/api/portraits/men/17.jpg",
+    "contact": {
+        "name": "John Doe",
+        "occupation": "Product Designer",
+        "location": "New york, NY",
+        "rating": "4.0",
+        "phone": "+1 22 333 4567",
+        "address": "111 E 11th Street New York, NY",
+        "email": "john@doe.com",
+        "website": "www.johndoe.com",
+        "birthday": "June 21, 1998",
+        "gender": "Male"
+
+    },
+    "projects": [
+        {
+            "id": "1",
+            "pimage_url": "/_nuxt/static/images/dron-8.png"
+        },
+        {
+            "id": "2",
+            "pimage_url": "/_nuxt/static/images/dron-8.png"
+        },
+        {
+            "id": "3",
+            "pimage_url": "/_nuxt/static/images/dron-8.png"
+        }
+    ],
+    "shared_project": [
+        {
+            "id": "4",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+            "potrait_url": "https://randomuser.me/api/portraits/women/14.jpg",
+            "image_url": "/_nuxt/static/images/car-big.png",
+            "comments_count": "26",
+            "share_count": "3",
+            "likes_count": "35",
+            "comments": [
+            ]
+        }, 
+        {
+            "id": "5",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+            "potrait_url": "https://randomuser.me/api/portraits/men/14.jpg",
+            "image_url": "/_nuxt/static/images/headphone-big.png",
+            "comments_count": "30",
+            "share_count": "12",
+            "likes_count": "35",
+            "comments": [
+                {
+                    "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                    "name": "William Doe",
+                    "occupation": "Consultant at Google Inc.",
+                    "comments_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus libero at odio vestibulum, at blandit justo sagittis. Vestibulum eget dui massa.",
+                    "likes": "50",
+                    "comments": "90"
+                },
+                {
+                    "photo_url": "https://randomuser.me/api/portraits/men/15.jpg",
+                    "name": "William Doe",
+                    "occupation": "Consultant at Google Inc.",
+                    "comments_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus libero at odio vestibulum, at blandit justo sagittis. Vestibulum eget dui massa.",
+                    "likes": "60",
+                    "comments": "90"
+                }
+            ]
+        }
+    ],
+    "reviews": [
+        {
+            "potrait_url": "https://randomuser.me/api/portraits/women/31.jpg",
+            "name": "Jane Doe",
+            "data_ago": "30",
+            "review_title": "Perfect innovative gift of my dreams",
+            "review_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt metus enim, in elementum sem egestas nec. Suspendisse quis diam lectus. In a ipsum risus. Vivamus a nibh et risus iaculis ultricies at a enim. Aenean tristique leo vel posuere fringilla. Duis tempus velit in eros dignissim accumsan. Quisque massa leo, volutpat facilisis pharetra in, porta a lorem."
+        },
+        {
+            "potrait_url": "https://randomuser.me/api/portraits/women/32.jpg",
+            "name": "Shane Doe",
+            "data_ago": "30",
+            "review_title": "Perfect innovative gift of my dreams",
+            "review_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt metus enim, in elementum sem egestas nec. Suspendisse quis diam lectus. In a ipsum risus. Vivamus a nibh et risus iaculis ultricies at a enim. Aenean tristique leo vel posuere fringilla. Duis tempus velit in eros dignissim accumsan. Quisque massa leo, volutpat facilisis pharetra in, porta a lorem."
+        }
+    ]
+}

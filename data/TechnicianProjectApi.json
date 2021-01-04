@@ -1,0 +1,574 @@
+{
+    "firstproject": [
+        {
+            "id": 1,
+            "projectName": "It making-1",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum. Fusce vehicula mi eu metus gravida, eget congue quam fermentum. Fusce consectetur, velit ultrices commodo lobortis, risus justo consectetur velit, a laoreet felis nisi venenatis ex. Quisque blandit magna eget velit vestibulum, porta vehicula velit convallis. Cras pulvinar nisl ut erat porta, et pellentesque metus facilisis. Sed porttitor malesuada efficitur. Curabitur malesuada elementum rhoncus. Etiam et rutrum nisi. Nam in ultricies lorem.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "29 Sep - 16 Oct",
+            "start_date": "05.06.2019",
+            "Chronologycal": 10,
+            "task_status": "Active",
+            "notification": "2 new notification",
+            "ImageUrl": [
+                "/_nuxt/static/images/car-big.png",
+                "/_nuxt/static/images/car-big.png",
+                "/_nuxt/static/images/car-big.png"
+            ],
+            "assigned_to_profile_image":[
+                "https://randomuser.me/api/portraits/women/14.jpg",
+                "https://randomuser.me/api/portraits/women/21.jpg",
+                "https://randomuser.me/api/portraits/women/23.jpg",
+                "https://randomuser.me/api/portraits/women/21.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "projectName": "Iron making-2",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum. Fusce vehicula mi eu metus gravida, eget congue quam fermentum. Fusce consectetur, velit ultrices commodo lobortis, risus justo consectetur velit, a laoreet felis nisi venenatis ex. Quisque blandit magna eget velit vestibulum, porta vehicula velit convallis. Cras pulvinar nisl ut erat porta, et pellentesque metus facilisis. Sed porttitor malesuada efficitur. Curabitur malesuada elementum rhoncus. Etiam et rutrum nisi. Nam in ultricies lorem.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "25 Sep - 16 Oct",
+            "start_date": "01.06.2019",
+            "Chronologycal": 8,
+            "task_status": "completed",
+            "notification": "3 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                "https://randomuser.me/api/portraits/women/15.jpg",
+                "https://randomuser.me/api/portraits/women/16.jpg",
+                "https://randomuser.me/api/portraits/women/17.jpg",
+                "https://randomuser.me/api/portraits/women/18.jpg",
+                "https://randomuser.me/api/portraits/women/19.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "projectName": "Iron making-3",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum. Fusce vehicula mi eu metus gravida, eget congue quam fermentum. Fusce consectetur, velit ultrices commodo lobortis, risus justo consectetur velit, a laoreet felis nisi venenatis ex. Quisque blandit magna eget velit vestibulum, porta vehicula velit convallis. Cras pulvinar nisl ut erat porta, et pellentesque metus facilisis. Sed porttitor malesuada efficitur. Curabitur malesuada elementum rhoncus. Etiam et rutrum nisi. Nam in ultricies lorem.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "12 Sep - 16 Oct",
+            "start_date": "03.06.2019",
+            "Chronologycal": 6,
+            "task_status": "Priority",
+            "notification": "1 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                "https://randomuser.me/api/portraits/women/20.jpg",
+                "https://randomuser.me/api/portraits/women/21.jpg",
+                "https://randomuser.me/api/portraits/women/22.jpg",
+                "https://randomuser.me/api/portraits/women/23.jpg",
+                "https://randomuser.me/api/portraits/women/14.jpg",
+                "https://randomuser.me/api/portraits/women/15.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "projectName": "Iron making-4",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum. Fusce vehicula mi eu metus gravida, eget congue quam fermentum. Fusce consectetur, velit ultrices commodo lobortis, risus justo consectetur velit, a laoreet felis nisi venenatis ex. Quisque blandit magna eget velit vestibulum, porta vehicula velit convallis. Cras pulvinar nisl ut erat porta, et pellentesque metus facilisis. Sed porttitor malesuada efficitur. Curabitur malesuada elementum rhoncus. Etiam et rutrum nisi. Nam in ultricies lorem.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "29 Sep - 24 Oct",
+            "start_date": "02.06.2019",
+            "Chronologycal": 3,
+            "task_status": "Over Due",
+            "notification": "1 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                "https://randomuser.me/api/portraits/women/16.jpg",
+                "https://randomuser.me/api/portraits/women/17.jpg",
+                "https://randomuser.me/api/portraits/women/18.jpg",
+                "https://randomuser.me/api/portraits/women/19.jpg",
+                "https://randomuser.me/api/portraits/women/20.jpg",
+                "https://randomuser.me/api/portraits/women/21.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "projectName": "Iron making-5",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum. Fusce vehicula mi eu metus gravida, eget congue quam fermentum. Fusce consectetur, velit ultrices commodo lobortis, risus justo consectetur velit, a laoreet felis nisi venenatis ex. Quisque blandit magna eget velit vestibulum, porta vehicula velit convallis. Cras pulvinar nisl ut erat porta, et pellentesque metus facilisis. Sed porttitor malesuada efficitur. Curabitur malesuada elementum rhoncus. Etiam et rutrum nisi. Nam in ultricies lorem.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "29 Sep - 12 Oct",
+            "start_date": "02.06.2019",
+            "Chronologycal": 3,
+            "task_status": "Over Due",
+            "notification": "1 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                "https://randomuser.me/api/portraits/women/22.jpg",
+                "https://randomuser.me/api/portraits/women/23.jpg",
+                "https://randomuser.me/api/portraits/women/14.jpg",
+                "https://randomuser.me/api/portraits/women/15.jpg",
+                "https://randomuser.me/api/portraits/women/16.jpg",
+                "https://randomuser.me/api/portraits/women/17.jpg",
+                "https://randomuser.me/api/portraits/women/18.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "projectName": "Iron making-6",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum. Fusce vehicula mi eu metus gravida, eget congue quam fermentum. Fusce consectetur, velit ultrices commodo lobortis, risus justo consectetur velit, a laoreet felis nisi venenatis ex. Quisque blandit magna eget velit vestibulum, porta vehicula velit convallis. Cras pulvinar nisl ut erat porta, et pellentesque metus facilisis. Sed porttitor malesuada efficitur. Curabitur malesuada elementum rhoncus. Etiam et rutrum nisi. Nam in ultricies lorem.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "12 Sep - 21 Oct",
+            "start_date": "02.06.2019",
+            "Chronologycal": 3,
+            "task_status": "Over Due",
+            "notification": "1 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                "https://randomuser.me/api/portraits/women/16.jpg",
+                "https://randomuser.me/api/portraits/women/17.jpg",
+                "https://randomuser.me/api/portraits/women/18.jpg",
+                "https://randomuser.me/api/portraits/women/19.jpg",
+                "https://randomuser.me/api/portraits/women/20.jpg",
+                "https://randomuser.me/api/portraits/women/21.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "projectName": "Iron making-7",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum. Fusce vehicula mi eu metus gravida, eget congue quam fermentum. Fusce consectetur, velit ultrices commodo lobortis, risus justo consectetur velit, a laoreet felis nisi venenatis ex. Quisque blandit magna eget velit vestibulum, porta vehicula velit convallis. Cras pulvinar nisl ut erat porta, et pellentesque metus facilisis. Sed porttitor malesuada efficitur. Curabitur malesuada elementum rhoncus. Etiam et rutrum nisi. Nam in ultricies lorem.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "3 Sep - 22 Oct",
+            "start_date": "02.06.2019",
+            "Chronologycal": 3,
+            "task_status": "Over Due",
+            "notification": "1 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                "https://randomuser.me/api/portraits/women/16.jpg",
+                "https://randomuser.me/api/portraits/women/17.jpg",
+                "https://randomuser.me/api/portraits/women/18.jpg",
+                "https://randomuser.me/api/portraits/women/19.jpg",
+                "https://randomuser.me/api/portraits/women/20.jpg",
+                "https://randomuser.me/api/portraits/women/21.jpg"
+            ]
+        }
+    ],
+    "firsttask": [
+        {
+            "id": 1,
+            "projectName": "It making-1",
+            "TaskName": "It making-1",
+            "domain": "Electronics",
+            "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "08.06.2019",
+            "start_date": "05.06.2019",
+            "Chronologycal": 10,
+            "task_status": "Active",
+            "notification": "2 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+            ],
+            "subtasks": [
+                {
+                    "id": 1,
+                    "projectName": "It making-1",
+                    "TaskName": "It making-1",
+                    "domain": "Electronics",
+                    "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+                    "assigned_to": "1Making electro cup_short",
+                    "due_date": "08.06.2019",
+                    "start_date": "05.06.2019",
+                    "Chronologycal": 10,
+                    "task_status": "Active",
+                    "notification": "2 new notification",
+                    "ImageUrl1": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl2": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl3": "/_nuxt/static/images/car-big.png",
+                    "assigned_to_profile_image":[
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+                    ]
+                },
+                {
+                    "id": 1,
+                    "projectName": "It making-1",
+                    "TaskName": "It making-1",
+                    "domain": "Electronics",
+                    "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+                    "assigned_to": "1Making electro cup_short",
+                    "due_date": "08.06.2019",
+                    "start_date": "05.06.2019",
+                    "Chronologycal": 10,
+                    "task_status": "Active",
+                    "notification": "2 new notification",
+                    "ImageUrl1": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl2": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl3": "/_nuxt/static/images/car-big.png",
+                    "assigned_to_profile_image":[
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+                    ]
+                }
+            ] 
+        },
+        {
+            "id": 2,
+            "projectName": "Iron making-2",
+            "TaskName": "It making-1",
+            "domain": "Electronics",
+            "taskDescription": "L2orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "07.06.2019",
+            "start_date": "01.06.2019",
+            "Chronologycal": 8,
+            "task_status": "completed",
+            "notification": "3 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+            ],
+            "subtasks": [
+                {
+                    "id": 1,
+                    "projectName": "It making-1",
+                    "TaskName": "It making-1",
+                    "domain": "Electronics",
+                    "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+                    "assigned_to": "1Making electro cup_short",
+                    "due_date": "08.06.2019",
+                    "start_date": "05.06.2019",
+                    "Chronologycal": 10,
+                    "task_status": "Active",
+                    "notification": "2 new notification",
+                    "ImageUrl1": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl2": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl3": "/_nuxt/static/images/car-big.png",
+                    "assigned_to_profile_image":[
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+                    ]
+                },
+                {
+                    "id": 1,
+                    "projectName": "It making-1",
+                    "TaskName": "It making-1",
+                    "domain": "Electronics",
+                    "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+                    "assigned_to": "1Making electro cup_short",
+                    "due_date": "08.06.2019",
+                    "start_date": "05.06.2019",
+                    "Chronologycal": 10,
+                    "task_status": "Active",
+                    "notification": "2 new notification",
+                    "ImageUrl1": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl2": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl3": "/_nuxt/static/images/car-big.png",
+                    "assigned_to_profile_image":[
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+                    ]
+                }
+            ] 
+        },
+        {
+            "id": 3,
+            "projectName": "Iron making-3",
+            "TaskName": "It making-1",
+            "domain": "Code",
+            "taskDescription": "L3orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "06.06.2019",
+            "start_date": "03.06.2019",
+            "Chronologycal": 6,
+            "task_status": "Priority",
+            "notification": "1 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+            ],
+            "subtasks": [
+                {
+                    "id": 1,
+                    "projectName": "It making-1",
+                    "TaskName": "It making-1",
+                    "domain": "Code",
+                    "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+                    "assigned_to": "1Making electro cup_short",
+                    "due_date": "08.06.2019",
+                    "start_date": "05.06.2019",
+                    "Chronologycal": 10,
+                    "task_status": "Active",
+                    "notification": "2 new notification",
+                    "ImageUrl1": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl2": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl3": "/_nuxt/static/images/car-big.png",
+                    "assigned_to_profile_image":[
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+                    ]
+                },
+                {
+                    "id": 1,
+                    "projectName": "It making-1",
+                    "TaskName": "It making-1",
+                    "domain": "Code",
+                    "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+                    "assigned_to": "1Making electro cup_short",
+                    "due_date": "08.06.2019",
+                    "start_date": "05.06.2019",
+                    "Chronologycal": 10,
+                    "task_status": "Active",
+                    "notification": "2 new notification",
+                    "ImageUrl1": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl2": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl3": "/_nuxt/static/images/car-big.png",
+                    "assigned_to_profile_image":[
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "projectName": "It making-1",
+            "TaskName": "It making-4",
+            "domain": "Cover",
+            "taskDescription": "L4orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+            "assigned_to": "1Making electro cup_short",
+            "due_date": "08.06.2019",
+            "start_date": "05.06.2019",
+            "Chronologycal": 10,
+            "task_status": "Active",
+            "notification": "2 new notification",
+            "ImageUrl1": "/_nuxt/static/images/car-big.png",
+            "ImageUrl2": "/_nuxt/static/images/car-big.png",
+            "ImageUrl3": "/_nuxt/static/images/car-big.png",
+            "assigned_to_profile_image":[
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+            ],
+            "subtasks": [
+                {
+                    "id": 1,
+                    "projectName": "It making-1",
+                    "TaskName": "It making-1",
+                    "domain": "Cover",
+                    "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+                    "assigned_to": "1Making electro cup_short",
+                    "due_date": "08.06.2019",
+                    "start_date": "05.06.2019",
+                    "Chronologycal": 10,
+                    "task_status": "Active",
+                    "notification": "2 new notification",
+                    "ImageUrl1": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl2": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl3": "/_nuxt/static/images/car-big.png",
+                    "assigned_to_profile_image":[
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+                    ]
+                },
+                {
+                    "id": 1,
+                    "projectName": "It making-1",
+                    "TaskName": "It making-1",
+                    "domain": "Cover",
+                    "taskDescription": "L1orem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur fermentum consectetur. Pellentesque et velit mattis, sagittis magna ac, vulputate neque. Suspendisse dolor sem, blandit ac dolor vitae, fermentum rhoncus augue. Fusce scelerisque posuere neque, in accumsan mi sagittis vitae. Phasellus purus purus, pulvinar vel diam sit amet, auctor feugiat purus. Donec nulla est, convallis nec tempor ac, molestie in massa. Morbi molestie varius ex, vel molestie dui. Phasellus accumsan velit eget efficitur condimentum.",
+                    "assigned_to": "1Making electro cup_short",
+                    "due_date": "08.06.2019",
+                    "start_date": "05.06.2019",
+                    "Chronologycal": 10,
+                    "task_status": "Active",
+                    "notification": "2 new notification",
+                    "ImageUrl1": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl2": "/_nuxt/static/images/car-big.png",
+                    "ImageUrl3": "/_nuxt/static/images/car-big.png",
+                    "assigned_to_profile_image":[
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager1"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager2"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager3"],
+                        ["https://randomuser.me/api/portraits/women/14.jpg","Jon Doe, Manager4"]
+                    ]
+                }
+            ]
+        }
+    ],
+    "myproject": [
+        {
+            "id":1,
+            "name":"hmj_Eletronics",
+            "kind":"Eletronics",
+            "consultantKind":"Google Conltant",
+            "consultantname":"Google",
+            "state":"Dealer",
+            "profileimage":"https://randomuser.me/api/portraits/men/20.jpg"
+        },{
+            "id":2,
+            "name":"hmj_Freelancers",
+            "kind":"Freelancers",
+            "consultantKind":"Google Conltant",
+            "consultantname":"Google",
+            "state":"Dealer",
+            "profileimage":"https://randomuser.me/api/portraits/men/21.jpg"
+        },{
+            "id":3,
+            "name":"hmj_Parts",
+            "kind":"Parts",
+            "consultantKind":"Google Conltant",
+            "consultantname":"Google",
+            "state":"Dealer",
+            "profileimage":"https://randomuser.me/api/portraits/women/22.jpg"
+        },
+        {
+            "id":4,
+            "name":"hmj_Eletronics4",
+            "kind":"Eletronics",
+            "consultantKind":"Google Conltant",
+            "consultantname":"Google",
+            "state":"Dealer",
+            "profileimage":"https://randomuser.me/api/portraits/men/20.jpg"
+        },{
+            "id":5,
+            "name":"hmj_Part5",
+            "kind":"Parts",
+            "consultantKind":"Google Conltant",
+            "consultantname":"Google",
+            "state":"Dealer",
+            "profileimage":"https://randomuser.me/api/portraits/women/22.jpg"
+        }
+    ],
+    "Result_info": [
+        {
+            "id": 1,
+            "name": "1-Samantha",
+            "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
+            "score": 5,
+            "shortdescription": "1-DesssSamantha",
+            "description": "1-DesssSamantha_asdjdfjkdsfdsf",
+            "time": 4,
+            "cost": "$ 220",
+            "Type": "Patents",
+            "address": "Israel",
+            "mainCore1": "PHP",
+            "mainCore2": "Java",
+            "mainCore3": "Python"
+           
+        },
+        {
+            "id": 2,
+            "name": "2-Samantha",
+            "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
+            "score": 4,
+            "shortdescription": "1-DesssSamantha",
+            "description": "1-DesssSamantha_askdhaskjdhasjdasd",
+            "time": 5,
+            "address": "danmark",
+            "cost": "$ 270",
+            "Type": "Clouds",
+            "mainCore1": "PHP",
+            "mainCore2": "Java",
+            "mainCore3": "Python"
+            
+        },
+        {
+            "id": 3,
+            "name": "3-Samantha",
+            "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
+            "score": 3,
+            "shortdescription": "1-DesssSamantha",
+            "description": "1-DesssSamantha_alsdhajklsdhasjkdasd",
+            "time": 6,
+            "address": "Tuckey",
+            "cost": "$ 320",
+            "Type": "Freelancers",
+            "mainCore1": "PHP",
+            "mainCore2": "Java",
+            "mainCore3": "Python"
+            
+        },
+        {
+            "id": 4,
+            "name": "4-Samantha",
+            "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
+            "score": 5,
+            "shortdescription": "4-DesssSamantha",
+            "description": "1-DesssSamantha_asdjdfjkdsfdsf",
+            "time": 11,
+            "cost": "$ 150",
+            "Type": "Patents",
+            "address": "Israel",
+            "mainCore1": "PHP",
+            "mainCore2": "Java",
+            "mainCore3": "Python"
+           
+        },
+        {
+            "id": 5,
+            "name": "5-Samantha",
+            "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
+            "score": 4,
+            "shortdescription": "5-DesssSamantha",
+            "description": "1-DesssSamantha_askdhaskjdhasjdasd",
+            "time": 12,
+            "address": "danmark",
+            "cost": "$ 267",
+            "Type": "Clouds",
+            "mainCore1": "PHP",
+            "mainCore2": "Java",
+            "mainCore3": "Python"
+            
+        },
+        {
+            "id": 6,
+            "name": "6-Samantha",
+            "profileImage": "https://randomuser.me/api/portraits/men/18.jpg",
+            "score": 3,
+            "shortdescription": "6-DesssSamantha",
+            "description": "1-DesssSamantha_alsdhajklsdhasjkdasd",
+            "time": 7,
+            "address": "Tuckey",
+            "cost": "$ 390",
+            "Type": "Freelancers",
+            "mainCore1": "PHP",
+            "mainCore2": "Java",
+            "mainCore3": "Python"
+            
+        }
+    ]
+}

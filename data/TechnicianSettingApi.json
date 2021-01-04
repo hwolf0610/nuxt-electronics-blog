@@ -1,0 +1,106 @@
+{
+    "Privacy": [
+        {
+            "id": 1,
+            "kind": "Social Connections",
+            "content1": "Social Connections highlights your Ideeza activity, which may include your username, Facebook profile photo, and recent locations you visited to your Facebook friends who are also on Ideeza.",
+            "content2": "If you turn off this feature, you will still be connected to Facebook, but your Ideeza activity will not be shared to other Facebook friends on Ideeza. Your public Ideeza activity (such as public reviews) on the platform will still be shown to other Ideeza users.",
+            "content3": "If you want to disconnect your Facebook account from Ideeza, go to General to learn more."
+        },
+        {
+            "id": 2,
+            "kind": "Add Ideeza to Facebook Timeline",
+            "content1": "Check this box to automatically publish your Wish Lists to Facebook.",
+            "content2": "They'll show up in your Facebook Timeline and your friends' News Feed and Ticker.",
+            "content3": ""
+        },
+        {
+            "id": 3,
+            "kind": "Your Products & Profile in Search Engines",
+            "content1": "Search engines attract lots of traffic to your profile and generate interest and connections for our users.",
+            "content2": "Perhaps you want to be listed on Ideeza but have concerns about your products and profile being advertised more widely. You can turn off search indexing, preventing search engines such as Google and Bing from displaying your pages in their search results.",
+            "content3": "Note: This may reduce your profile opportunities and will take a few days to take effect."
+        }
+    ],
+    "Setting_general": [
+        {
+            "id": 1,
+            "name": "Social Connections",
+            "emailaddress": "test@test.com",
+            "phonenumber": "12345984534",
+            "preferredlanguage": "English",
+            "address": "mycity",
+            "website": "http://help.com",
+            "skills": "php, HTml, CSS",
+            "descibe": "I am senior full stack developer.",
+            "profile_photo": "/_nuxt/static/images/Business-Profile.png",
+            "profile_description": "Most viewers take less than three seconds to scan a full web-page and form their first impressions. The next thing they look for? A company’s logo.",
+            "password": "you",
+            "Line_Business":[
+                "code",
+                "cover",
+                "electronics"
+            ],
+            "expertise":[
+                "assembly",
+                "Tester",
+                "Dealer",
+                "CNC plastic"
+            ]
+            
+        }
+    ],
+    "Setting_notification": [
+        {
+            "id": 1,
+            "message_email": 1,
+            "message_notification": 0,
+            "message_textmessage": 0,
+            "Reminders_email": 0,
+            "Reminders_notification": 0,
+            "Reminders_textmessage": 1,
+            "Policy_and_community_email": 0,
+            "Policy_and_community_notification": 0,
+            "Policy_and_community_textmessage": 0,
+            "Account_Support_email": 0,
+            "Account_Support_notification": 0,
+            "Account_Support_textmessage": 0,
+            "contact_info_email": " example@gmail.com",
+            "contact_info_phone_number": "+123....789",
+            "Text_Messages1": "+123*** **874",
+            "Text_Messages2": "+123*** **567"
+        }
+    ],
+    "Login_history": [
+        {
+            "id": 1,
+            "Browser_Device": "Chrome/Windows 10",
+            "Location": "NewYork NY USA",
+            "Recent_Activity": "About 3 hours ago"
+        },
+        {
+            "id": 2,
+            "Browser_Device": "Chrome/Windows 10",
+            "Location": "NewYork NY USA",
+            "Recent_Activity": "About 3 hours ago"
+        },
+        {
+            "id": 3,
+            "Browser_Device": "Chrome/Windows 10",
+            "Location": "NewYork NY USA",
+            "Recent_Activity": "About 3 hours ago"
+        },
+        {
+            "id": 4,
+            "Browser_Device": "Chrome/Windows 10",
+            "Location": "NewYork NY USA",
+            "Recent_Activity": "About 3 hours ago"
+        },
+        {
+            "id": 5,
+            "Browser_Device": "Chrome/Windows 10",
+            "Location": "NewYork NY USA",
+            "Recent_Activity": "About 3 hours ago"
+        }
+    ]
+}

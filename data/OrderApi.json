@@ -1,0 +1,143 @@
+[
+    {
+        "image": "/_nuxt/static/images/Layercar.png",
+        "title": "Lamborghini Aventado PCB",
+        "type" : "Electronics",
+        "order_id" : 12312233,
+        "id": 1,
+        "type_2": "type",
+        "quantity": 2,
+        "date": {
+            "start": "04/24/2018",
+            "end": "05/04/2018"
+        },
+        "price": 100,
+        "status": "Opened",
+        "progress": 40,
+        "workers": [
+            {
+                "id":1,
+                "name":"hmj_Eletronics",
+                "kind":"Eletronics",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/men/20.jpg"
+            },{
+                "id":2,
+                "name":"hmj_Freelancers",
+                "kind":"Freelancers",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/men/21.jpg"
+            },
+            {
+                "id":4,
+                "name":"hmj_Eletronics4",
+                "kind":"Eletronics",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/men/20.jpg"
+            },
+            {
+                "id":6,
+                "name":"hmj_Eletronics4",
+                "kind":"Eletronics",
+                "consultantKind":"Freelance Front-end",
+                "consultantname":"Microsoft",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/men/23.jpg"
+            }
+        ]
+    },
+    {
+        "image": "/_nuxt/static/images/washing-machine.png",
+        "title": "Built in Wifi Wall Oven PCB",
+        "type" : "Electronics",
+        "order_id" : 23211,
+        "id": 2,
+        "type_2": "type2",
+        "quantity": 5,
+        "date": {
+            "start": "04/24/2018",
+            "end": "05/04/2018"
+        },
+        "price": 500,
+        "status": "In Progress",
+        "progress": 70,
+        "workers": [
+            {
+                "id":3,
+                "name":"hmj_Parts",
+                "kind":"Parts",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/women/22.jpg"
+            },
+            {
+                "id":4,
+                "name":"hmj_Eletronics4",
+                "kind":"Eletronics",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/men/20.jpg"
+            },{
+                "id":5,
+                "name":"hmj_Part5",
+                "kind":"Parts",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/women/22.jpg"
+            }
+        ]
+    },
+    {
+        "image": "/_nuxt/static/images/washing-machine.png",
+        "title": "Built in Wifi Wall Oven PCB",
+        "type" : "Electronics",
+        "order_id" : 23211,
+        "id": 2,
+        "type_2": "type2",
+        "quantity": 5,
+        "date": {
+            "start": "04/24/2018",
+            "end": "05/04/2018"
+        },
+        "price": 500,
+        "status": "In Progress",
+        "progress": 70,
+        "workers": [
+            {
+                "id":3,
+                "name":"hmj_Parts",
+                "kind":"Parts",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/women/22.jpg"
+            },
+            {
+                "id":4,
+                "name":"hmj_Eletronics4",
+                "kind":"Eletronics",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/men/20.jpg"
+            },{
+                "id":5,
+                "name":"hmj_Part5",
+                "kind":"Parts",
+                "consultantKind":"Google Conltant",
+                "consultantname":"Google",
+                "state":"Dealer",
+                "profileimage":"https://randomuser.me/api/portraits/women/22.jpg"
+            }
+        ]
+    }
+]

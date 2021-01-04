@@ -1,0 +1,16 @@
+{
+    "Admin_info": [
+        {
+            "id": 1,
+            "Cityname": "Isreal",
+            "phoneNumber": "+1122334455",
+            "info1": "Ideeza LTD",
+            "info2": "The unreachable Building",
+            "info3": "Happy Lane, LS1 2A0",
+            "info4": "(+1) 0123 45678990",
+            "mapimage": "/_nuxt/static/images/map.png",
+            "cityimage": "/_nuxt/static/images/city.png"
+           
+        }
+    ]
+}
